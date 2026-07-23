@@ -1,3 +1,2 @@
-hello world
-this is JayaPrakash
-welcome to git classes
+Hello Everyone, this is JayaPrakash welcome to git classes
+Happy to have you all in the session
