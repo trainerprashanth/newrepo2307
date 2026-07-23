@@ -1,0 +1,14 @@
+Docker 
+Kubernetes
+Ansible
+Terraform 
+Prometheus 
+Grafana
+Jenkins
+Maven
+Nexus
+Tomcat
+AWS
+Azure
+GCP 
+Digital Ocean
