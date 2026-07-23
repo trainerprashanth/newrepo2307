@@ -1,0 +1,8 @@
+This file is created and committed on the main branch
+But 
+this file is not visible in any of the branches
+because
+this file is created after the branches are created
+
+A branch inherits only the prior commits of the parent. 
+Since this file is created later, this is not visible in the branches
