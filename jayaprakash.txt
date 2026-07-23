@@ -4,3 +4,7 @@ Ansible
 Terraform 
 Prometheus 
 Grafana
+AWS
+Azure
+GCP 
+Digital Ocean
