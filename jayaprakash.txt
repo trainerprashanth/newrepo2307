@@ -8,3 +8,7 @@ Jenkins
 Maven
 Nexus
 Tomcat
+AWS
+Azure
+GCP 
+Digital Ocean
