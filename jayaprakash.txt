@@ -1,2 +1,6 @@
-Hello Everyone, this is JayaPrakash welcome to git classes
-Happy to have you all in the session
+Docker 
+Kubernetes
+Ansible
+Terraform 
+Prometheus 
+Grafana
